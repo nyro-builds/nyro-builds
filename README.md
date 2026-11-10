@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm NYRO 👋
 
-<!--
-**nyro-builds/nyro-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent Tech Creator · AI · Code · Cybersecurity**
 
-Here are some ideas to get you started:
+I explore emerging technologies, build useful things, and share what I learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From AI agents and automation to developer tools and cybersecurity, I'm here to make tech more practical, accessible, and interesting.
+
+### ⚡ What you'll find here
+
+- 🤖 **AI & automation** — Agents, workflows, experiments, and tools worth trying.
+- 💻 **Development** — Scripts, practical builds, and open-source projects.
+- 🔐 **Cybersecurity** — Educational resources and security-focused experiments.
+- 🛠️ **Free resources** — Useful tools, guides, and curated collections.
+- 🚀 **Building in public** — The process, the lessons, and the results.
+
+### 🌐 Follow the journey
+
+**Instagram:** [@nyro.builds](https://www.instagram.com/nyro.builds/)
+
+---
+
+> Don't just consume technology. Understand it. Build with it. Share it.
+
+*Exploring. Building. Sharing.*
