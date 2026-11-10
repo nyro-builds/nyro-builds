@@ -8,11 +8,11 @@ From AI agents and automation to developer tools and cybersecurity, I'm here to 
 
 ### ⚡ What you'll find here
 
-🤖 **AI & automation**: Agents, workflows, experiments, and tools worth trying.
-💻 **Development**: Scripts, practical builds, and open-source projects.
-🔐 **Cybersecurity**: Educational resources and security-focused experiments.
-🛠️ **Free resources**: Useful tools, guides, and curated collections.
-🚀 **Building in public**: The process, the lessons, and the results.
+- 🤖 **AI & automation**: Agents, workflows, experiments, and tools worth trying.
+- 💻 **Development**: Scripts, practical builds, and open-source projects.
+- 🔐 **Cybersecurity**: Educational resources and security-focused experiments.
+- 🛠️ **Free resources**: Useful tools, guides, and curated collections.
+- 🚀 **Building in public**: The process, the lessons, and the results.
 
 ### 🌐 Follow the journey
 
